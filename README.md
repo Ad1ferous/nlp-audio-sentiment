@@ -38,7 +38,7 @@
 Подробнее — в [reports/task1_dataset_description.md](reports/task1_dataset_description.md).
 
 ## Структура
-├── notebooks/ # ноутбуки Colab
+├── notebooks/ # ноутбуки 
 
 ├── src/ # код (предобработка, модели)
 
