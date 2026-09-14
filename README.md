@@ -33,9 +33,9 @@
 Подробнее — в [reports/task1_dataset_description.md](reports/task1_dataset_description.md).
 
 ## Структура репозитория
-├── notebooks/ # Jupyter/Colab ноутбуки по этапам
-├── src/ # Исходный код (предобработка, модели)
-├── data/ # Данные (не коммитятся, см. .gitignore)
-├── models/ # Сохранённые модели
-├── reports/ # Отчёты по заданиям
-└── telegram_bot/ # Код Telegram-бота и сервера
+├── notebooks/ # ноутбуки Colab
+├── src/ # код (предобработка, модели)
+├── data/ # данные не коммитим, только заглушка
+├── models/ # сохранённые модели
+├── reports/ # отчёты по заданиям
+└── telegram_bot/ # бот и сервер (появится позже)
