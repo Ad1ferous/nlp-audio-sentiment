@@ -32,7 +32,7 @@
 
 Подробнее — в [reports/task1_dataset_description.md](reports/task1_dataset_description.md).
 
-## Структура репозитория
+## Структура
 ├── notebooks/ # ноутбуки Colab
 ├── src/ # код (предобработка, модели)
 ├── data/ # данные не коммитим, только заглушка
